@@ -1,12 +1,21 @@
 <style>
     body {
-      background-color: yellow;
+        background-color: cornflowerblue;
     }
     h1 {
-      color: purple
+        color:red
     }
-    ol {
-      color:blue
+    .portrait {
+        width: 300px;
+        height: 400px;
     }
-/body
-  </style>
+    div {
+        border-style: inset;
+        border-width: 20px;
+        border-color: rgba(87, 98, 196, 0.863);
+        padding-left: 30px;
+    }
+    .center {
+        text-align: center;
+    }
+</style>

@@ -1,21 +1,43 @@
-<style>
-    body {
-        background-color: cornflowerblue;
-    }
-    h1 {
-        color:red
-    }
-    .portrait {
-        width: 300px;
-        height: 400px;
-    }
-    div {
-        border-style: inset;
-        border-width: 20px;
-        border-color: rgba(87, 98, 196, 0.863);
-        padding-left: 30px;
-    }
-    .center {
-        text-align: center;
-    }
-</style>
+body {
+    background-color: cornflowerblue;
+}
+h1 {
+    color:red;
+    text-align: center;
+}
+.portrait {
+    width: 300px;
+    height: 400px;
+}
+div {
+    border-style: inset;
+    border-width: 15px;
+    border-color: rgba(87, 98, 196, 0.863);
+    padding: 30px;
+}
+.center {
+    text-align: center;
+}
+.tennis {
+    width: 250px;
+    height: 100px;
+}
+.separator {
+    width: 650px;
+}
+.music {
+    float: right;
+    width: 100px;
+    height: 150px;
+}
+.game {
+    float: right;
+    width: 200px;
+    height: 150px;
+}
+.links {
+    position: fixed;
+    background-color: yellow;
+    bottom: 0px;
+    right: 0px;
+}

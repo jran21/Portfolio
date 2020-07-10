@@ -22,18 +22,14 @@ div {
     width: 250px;
     height: 100px;
 }
-.separator {
-    width: 650px;
-}
+
 .music {
     float: right;
-    width: 100px;
-    height: 150px;
 }
+
 .game {
-    float: right;
-    width: 200px;
-    height: 150px;
+    float: left;
+    padding: 100px;
 }
 .links {
     position: fixed;
